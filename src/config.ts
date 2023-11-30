@@ -4,4 +4,4 @@
 export const SITE_TITLE =
   "Dariusz Litwiniec | Personal Portfolio Website";
 export const SITE_DESCRIPTION =
-  "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.";
+  "Personal Portfolio Website";
